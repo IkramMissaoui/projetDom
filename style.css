@@ -23,7 +23,9 @@ body {
   border-bottom: rgba(182, 174, 174, 0.233) solid 2px;
   display: flex;
   justify-content: space-around;
-  align-items: center
+  align-items: center;
+  padding-right:50px;
+  padding-left:50px;
 }
 
 .fas {
